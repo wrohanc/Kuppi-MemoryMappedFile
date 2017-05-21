@@ -1,7 +1,6 @@
 # Kuppi-MemoryMappedFile
-Resources for session on memory mapped files.
 
-Different usages of memory mapped files.
+Resources for session on memory mapped files.
 
 1. What is a memory mapped file?
 2. Advantages of using memory mapped files.
